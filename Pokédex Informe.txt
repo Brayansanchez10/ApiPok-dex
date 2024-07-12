@@ -1,0 +1,8 @@
+Proyecto Pokédex:
+El diseño de este proyecto se inspira en la icónica Pokédex, la herramienta central para registrar datos de los Pokémon. El logo en la parte superior del sitio representa este concepto, mientras que el fondo estrellado del universo crea un contraste moderno y atractivo con el diseño de las cartas.
+Cada carta presenta el nombre correspondiente del Pokémon junto con su imagen, siguiendo un diseño claro y moderno que facilita la identificación y el reconocimiento visual
+La tipografía seleccionada, Arial Sans-Serif, se eligió por su legibilidad y adecuación al tono general de la página. Esta fuente asegura una experiencia de lectura cómoda y accesible para los usuarios.
+
+En cuanto a las dificultades en el proceso del desarrollo, primero no tenia conocimiento de como consumir una API mediante el protocolo GET HTTPS, por lo que tuve que buscar información para realizar el proyecto. 
+luego tuve problemas con el codigo de la API, muchas vececs no funcionaba entonces tuve que buscar soluciones en video y con inteligencia artifical.
+Y por ultimo el Buscar los colores adecuados para que el sitio se viera agradable a la vista del usuario. 
